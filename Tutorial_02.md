@@ -4,15 +4,6 @@ Tutorial #2
 
 MySQL Datastore
 
-CSP 584 – Enterprise Web Application
-
-Dr. Atef Bader
-
-Illinois Institute of Technology
-
-TA : Prakhar Nag
-
-pnag@hawk.iit.edu
 
 
 
