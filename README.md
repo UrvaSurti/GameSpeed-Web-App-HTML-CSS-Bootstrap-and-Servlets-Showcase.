@@ -44,17 +44,4 @@ HTML, CSS, Bootstrap,Glyphicons, Carousel, Servlets and JSP
 - A JSP file combines HTML tags with Java logic efficiently.
 
 
-// Home Servlet
-
-public class Home extends HttpServlet {
-    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        response.setContentType("text/html");
-        PrintWriter pw = response.getWriter();
-        Utilities utility = new Utilities(request,pw);
-        utility.printHtml("Header.html");
-        utility.printHtml("LeftNavigationBar.html");
-        utility.printHtml("Content.html");
-        utility.printHtml("Footer.html");
-    }
-}
 
