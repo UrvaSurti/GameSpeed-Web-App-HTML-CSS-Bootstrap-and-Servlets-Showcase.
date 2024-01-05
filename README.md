@@ -43,5 +43,5 @@ HTML, CSS, Bootstrap,Glyphicons, Carousel, Servlets and JSP
 - JSP offers easier maintenance compared to Servlets.
 - A JSP file combines HTML tags with Java logic efficiently.
 
-
+## Project Screnshots:- [Screenshots](https://www.example.com)
 
